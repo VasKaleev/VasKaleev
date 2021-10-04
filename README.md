@@ -3,6 +3,8 @@
 I'm a developer PHP, JS, React js
 
 Languages and Tools
-![Sql](https://img.shields.io/badge/<LABEL>-<SQL>-<COLOR>)
+
+![Sql](https://img.shields.io/badge/JS-SQL-<COLOR>)
+
 Follow me
 
