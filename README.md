@@ -4,7 +4,7 @@ I'm a developer PHP, JS, React js
 
 Languages and Tools
 
-![HTML](https://img.shields.io/badge/HTML-yellow?style=for-the-badge&logo=HTML)
+![HTML](https://img.shields.io/badge/HTML-yellow?style=flat&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-yellowgreen?style=for-the-badge&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/JS-success?style=for-the-badge&logo=JavaScript)
 ![React JS](https://img.shields.io/badge/Reactjs-green?style=for-the-badge&logo=React)
