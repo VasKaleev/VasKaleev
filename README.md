@@ -11,8 +11,8 @@ Languages and Tools
 ![MySql](https://img.shields.io/badge/SQL-orange?style=flat&logo=MySQl)
 ![QA](https://img.shields.io/badge/QA-blue?style=flat)
 
-Follow me
+Follow me: www.Linkedin.com/in/василий-калеев-8468551bb
 
 ![Linkedin](https://img.shields.io/badge/Linkedin-orange?style=flat&logo=Linkedin)
 
-WWW.Linkedin.com/in/василий-калеев-8468551bb
+
