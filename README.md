@@ -1,4 +1,4 @@
-![Header](https://github.com/VasKaleev/VasKaleev/blob/main/assets/scale_1200.png)
+![Header](https://github.com/VasKaleev/VasKaleev/blob/main/assets/i.webp)
 
 I'm a developer PHP, JS, React js
 
@@ -9,7 +9,7 @@ Languages and Tools
 ![JS](https://img.shields.io/badge/JS-success)
 ![React JS](https://img.shields.io/badge/Reactjs-green)
 ![Sql](https://img.shields.io/badge/SQL-orange)
-![QA](https://img.shields.io/badge/QA-important)
+![QA](https://img.shields.io/badge/QA-blue)
 
 Follow me
 
