@@ -13,6 +13,7 @@ Languages and Tools
 
 Follow me: www.Linkedin.com/in/василий-калеев-8468551bb
 
-![Linkedin](https://img.shields.io/badge/Linkedin-orange?style=flat&logo=Linkedin)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VasKaleev)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
