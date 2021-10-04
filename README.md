@@ -15,4 +15,4 @@ Follow me
 
 ![Linkedin](https://img.shields.io/badge/Linkedin-orange?style=flat&logo=Linkedin)
 
-(www.linkedin.com/in/василий-калеев-8468551bb)
+WWW.Linkedin.com/in/василий-калеев-8468551bb
