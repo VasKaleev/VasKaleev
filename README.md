@@ -12,4 +12,4 @@ Languages and Tools
 ![QA](https://img.shields.io/badge/QA-blue?style=flat)
 
 Follow me
-
+![Linkedin](https://img.shields.io/badge/SQL-orange?style=flat&logo=in)
