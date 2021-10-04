@@ -4,9 +4,9 @@ I'm a developer PHP, JS, React js
 
 Languages and Tools
 
-![HTML](https://img.shields.io/badge/HTML-<COLOR>)
+![HTML](https://img.shields.io/badge/HTML-yellow)
 
-![Sql](https://img.shields.io/badge/SQL-<COLOR>)
+![Sql](https://img.shields.io/badge/SQL-orange)
 
 Follow me
 
