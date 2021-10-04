@@ -9,7 +9,7 @@ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JS-success?style=for-the-badge&logo=JavaScript)
 ![React JS](https://img.shields.io/badge/Reactjs-green?style=for-the-badge&logo=React)
 ![MySql](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=MySQl)
-![QA](https://img.shields.io/badge/QA-blue?style=for-the-badge&logo=QA)
+![QA](https://img.shields.io/badge/QA-blue?style=for-the-badge)
 
 Follow me
 
