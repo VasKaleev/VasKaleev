@@ -4,7 +4,7 @@ I'm a developer PHP, JS, React js
 
 Languages and Tools
 
-![Sql](https://img.shields.io/badge/JS-SQL-<COLOR>)
+![Sql](https://img.shields.io/badge/HTML-CSS-JS-REACT-SQL-<COLOR>)
 
 Follow me
 
