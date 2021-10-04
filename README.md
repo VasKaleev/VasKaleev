@@ -1,4 +1,4 @@
-![Header](https://github.com/VasKaleev/VasKaleev/blob/main/assets/scale_1200.webp)
+![Header](https://github.com/VasKaleev/VasKaleev/blob/main/assets/scale_1200.png)
 
 About me
 
