@@ -13,4 +13,4 @@ Languages and Tools
 
 Follow me
 
-![Linkedin](https://img.shields.io/badge/SQL-orange?style=flat&logo=Linkedin)(https://www.linkedin.com/in/%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9-%D0%BA%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2-8468551bb/)
+![Linkedin](https://img.shields.io/badge/Linkedin-orange?style=flat&logo=Linkedin)(www.linkedin.com/in/василий-калеев-8468551bb)
