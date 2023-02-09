@@ -6,7 +6,7 @@ Languages and Tools
 
 ![HTML](https://img.shields.io/badge/HTML-yellow?style=flat&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-yellowgreen?style=flat&logo=CSS)
-![Python](https://img.shields.io/badge/CSS-yellow?style=flat&logo=Python)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=Python)
 ![JavaScript](https://img.shields.io/badge/JS-success?style=flat&logo=JavaScript)
 ![React JS](https://img.shields.io/badge/Reactjs-green?style=flat&logo=React)
 ![MySql](https://img.shields.io/badge/SQL-orange?style=flat&logo=MySQl)
