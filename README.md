@@ -1,6 +1,7 @@
 ![Header](https://github.com/VasKaleev/VasKaleev/blob/main/assets/i.webp)]
 
-I'm a developer PHP, JS, React js
+Python, php, js, reactjs, mysql, PostgreSQL, Node js, QA automation, Github, SAP ERP,
+Web application development, development of SPA, CRM and SAP ERP platform
 
 Languages and Tools
 
