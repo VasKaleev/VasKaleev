@@ -1,15 +1,15 @@
 ![Header](https://github.com/VasKaleev/VasKaleev/blob/main/assets/i.webp)]
 
-Python, php, js, reactjs, mysql, PostgreSQL, Node js, QA automation, Github, SAP ERP,
+Javascript, html, css, reactjs, python, php, mysql, PostgreSQL, Node js, QA automation, Github, SAP ERP,
 Web application development, development of SPA, CRM and SAP ERP platform
 
 Languages and Tools
 
+![JavaScript](https://img.shields.io/badge/JS-success?style=flat&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/HTML-yellow?style=flat&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-yellowgreen?style=flat&logo=CSS)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=Python)
-![JavaScript](https://img.shields.io/badge/JS-success?style=flat&logo=JavaScript)
 ![React JS](https://img.shields.io/badge/Reactjs-green?style=flat&logo=React)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=Python)
 ![MySql](https://img.shields.io/badge/SQL-orange?style=flat&logo=MySQl)
 ![QA](https://img.shields.io/badge/QA-blue?style=flat)
 
