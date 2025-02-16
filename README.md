@@ -1,6 +1,6 @@
 ![Header](https://github.com/VasKaleev/VasKaleev/blob/main/assets/i.webp)]
 
-Javascript, html, css, reactjs, node js, python, php, mysql, PostgreSQL, QA automation, Github, SAP ERP,
+Javascript, html, css, reactjs, next js, node js, python, php, mysql, PostgreSQL, QA automation, Github, SAP ERP,
 Web application development, development of SPA, CRM and SAP ERP platform
 
 Languages and Tools
